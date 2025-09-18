@@ -1,0 +1,15 @@
+#include <stdio.h>
+int main() {
+    puts("* * * * * * * * * * * * * * * * * * * * * * * * * * * * *");
+    puts("*                                                       *");
+    puts("*     tema: Razrabotka konsolnogo prilozheniya          *");
+    puts("*                                                       *");
+    puts("*         Vipolnil Ahmedov O.Z.                         *");
+    puts("*      _  _     _   _  _  _  _                          *");
+    puts("*     | | _| /|| |  _|| || ||_                          *");
+    puts("*     |_||_ . ||_|.|_ |_||_||_|                         *");
+    puts("*                                                       *");
+    puts("*                                                       *");
+    puts("* * * * * * * * * * * * * * * * * * * * * * * * * * * * *");
+    return 0;
+}
